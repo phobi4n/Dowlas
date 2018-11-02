@@ -3,7 +3,7 @@ ForegroundNormal=77,80,84
 BackgroundNormal=66,133,244
 
 [Colors:Button]
-ForegroundNormal=159,59,57
+ForegroundNormal=77,80,84
 
 [Colors:Compilmentary]
 BackgroundNormal=4,4,222
@@ -12,4 +12,4 @@ BackgroundNormal=4,4,222
 ForegroundNormal=59,59,157
 
 [Colors:Selection]
-ForegroundNormal=133,217,245
+ForegroundNormal=133,17,245
