@@ -1,0 +1,15 @@
+[Colors:Window]
+ForegroundNormal=77,80,84
+BackgroundNormal=66,133,244
+
+[Colors:Button]
+ForegroundNormal=159,59,57
+
+[Colors:Compilmentary]
+BackgroundNormal=4,4,222
+
+[Colors:View]
+ForegroundNormal=59,59,157
+
+[Colors:Selection]
+ForegroundNormal=133,217,245
