@@ -14,11 +14,11 @@
    version="1.0"
    height="16"
    sodipodi:docname="checkmarks.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <defs
      id="defs24" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#f0f0f0"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -30,9 +30,9 @@
      inkscape:window-height="710"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="12.511862"
-     inkscape:cx="18.550727"
-     inkscape:cy="7.6763001"
+     inkscape:zoom="12.51"
+     inkscape:cx="12.29"
+     inkscape:cy="14.41"
      inkscape:window-x="181"
      inkscape:window-y="177"
      inkscape:window-maximized="0"
@@ -54,7 +54,7 @@
   <g
      id="radiobutton">
     <path
-       style="fill:#ececec;fill-opacity:1"
+       style="fill:#b6b8ba;fill-opacity:1"
        inkscape:connector-curvature="0"
        d="M 7.9981,11 A 3,3 0 0 1 5,7.999 3,3 0 0 1 8.0009,5 3,3 0 0 1 11,8 3,3 0 0 1 8,11 V 8 Z"
        id="path4178" />
@@ -77,10 +77,12 @@
        height="16"
        y="0"
        id="rect4165" />
-    <polygon
-       style="fill:#ececec;fill-opacity:1"
-       transform="matrix(0.19663,0,0,0.19663,18.1096,-1.704)"
-       points="28.4,50.8 23.6,57.2 42.5,71.4 77,32.7 71,27.3 41.5,60.6 "
-       id="polygon8" />
+    <path
+       transform="matrix(0.1966,0,0,0.1966,18.11,-1.704)"
+       style="fill:#b6b8ba;fill-opacity:1"
+       d="M 30.12,55.4 23.6,55.33 42.5,71.4 76.71,30.54 72.58,30.61 41.5,58.88 Z"
+       id="polygon8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

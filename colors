@@ -9,7 +9,7 @@ ForegroundNormal=77,80,84
 BackgroundNormal=4,4,222
 
 [Colors:View]
-ForegroundNormal=59,59,157
+ForegroundNormal=77,80,84
 
 [Colors:Selection]
-ForegroundNormal=133,17,245
+ForegroundNormal=234,234,234
