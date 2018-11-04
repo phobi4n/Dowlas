@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="913.11346"
@@ -18,6 +19,34 @@
    sodipodi:docname="clock.svg">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1228">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1224" />
+      <stop
+         id="stop912"
+         offset="0.7"
+         style="stop-color:#000000;stop-opacity:0.7222" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1226" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1220">
+      <stop
+         style="stop-color:#fcfcfc;stop-opacity:1"
+         offset="0"
+         id="stop1216" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="1"
+         id="stop1218" />
+    </linearGradient>
     <style
        type="text/css"
        id="current-color-scheme">
@@ -44,6 +73,27 @@
       .ColorScheme-ButtonFocus{
       }
       </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1220"
+       id="linearGradient1222"
+       x1="-159.5"
+       y1="224.8"
+       x2="-159.5"
+       y2="262.8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.362,0,0,1.362,56.28,-93.28)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1228"
+       id="radialGradient1230"
+       cx="-159.5"
+       cy="243.8"
+       fx="-159.5"
+       fy="243.8"
+       r="19.97"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.412,0,0,1.412,64.18,-105.6)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,9 +102,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.58"
-     inkscape:cx="443.7"
-     inkscape:cy="284.3"
+     inkscape:zoom="2.683"
+     inkscape:cx="253.7"
+     inkscape:cy="393.2"
      inkscape:document-units="px"
      inkscape:current-layer="g4510"
      showgrid="false"
@@ -77,7 +127,8 @@
      inkscape:measure-end="0,0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true" />
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -109,15 +160,15 @@
          rx="0"
          ry="0" />
       <rect
-         ry="0.841"
+         ry="0.8413"
          rx="0.6174"
-         y="242.3"
+         y="242.4"
          x="-116.9"
-         height="23.78"
+         height="22.02"
          width="1.035"
          id="rect881"
          class="ColorScheme-Text"
-         style="opacity:0.9;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.723;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:0.9;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.7232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="HourHand">
@@ -159,7 +210,7 @@
          class="ColorScheme-Text"
          id="rect899"
          width="0.1759"
-         height="23.97"
+         height="20.65"
          x="-104.9"
          y="242.1" />
     </g>
@@ -175,12 +226,12 @@
          id="rect891"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.5667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
-         r="1.418"
+         r="1.615"
          cy="242.2"
-         cx="-91.02"
+         cx="-91.01"
          id="circle897"
          class="ColorScheme-Text"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.9449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.9446;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <circle
        r="26.48"
@@ -191,419 +242,448 @@
     <g
        id="ClockFace">
       <circle
-         r="27.52"
-         cy="243.9"
-         cx="-159.5"
-         id="circle913"
-         style="opacity:1;fill:#e7eaed;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
-      <path
-         inkscape:connector-curvature="0"
-         id="tock"
-         class="ColorScheme-Text"
-         d="m -159.5,217.7 v 1.5"
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
-         d="m -159.5,268.6 v 1.5"
-         class="ColorScheme-Text"
-         id="path886"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
-         d="m -133.3,243.9 h -1.5"
-         class="ColorScheme-Text"
-         id="path888"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path890"
-         class="ColorScheme-Text"
-         d="m -184.2,243.9 h -1.5"
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
-         d="m -146.4,221.2 -0.7,1.3"
-         class="ColorScheme-Text"
-         id="path898"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path900"
-         class="ColorScheme-Text"
-         d="m -171.8,265.3 -0.8,1.3"
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path902"
-         class="ColorScheme-Text"
-         d="m -136.8,257 -1.3,-0.7"
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
-         d="m -180.9,231.6 -1.3,-0.8"
-         class="ColorScheme-Text"
-         id="path904"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path908"
-         class="ColorScheme-Text"
-         d="m -136.8,230.8 -1.3,0.8"
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
-         d="m -180.9,256.3 -1.3,0.7"
-         class="ColorScheme-Text"
-         id="path910"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
-         d="m -146.4,266.6 -0.7,-1.3"
-         class="ColorScheme-Text"
-         id="path912"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path914"
-         class="ColorScheme-Text"
-         d="m -171.8,222.5 -0.8,-1.3"
-         style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.5293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
+         r="28.2"
+         cy="238.7"
+         cx="-161.1"
+         id="circle1212"
+         style="opacity:1;fill:url(#radialGradient1230);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2645;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         style="opacity:1;fill:url(#linearGradient1222);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2645;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle1214"
+         cx="-161.1"
+         cy="238.7"
+         r="25.84" />
       <g
-         transform="rotate(6,-159.5,243.9)"
-         id="g853">
+         style="stroke-width:1.1433"
+         transform="matrix(0.8745,0,0,0.8745,-21.59,25.45)"
+         id="g1054">
         <path
-           inkscape:connector-curvature="0"
-           id="letty"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
+           d="m -159.5,217.7 v 1.5"
            class="ColorScheme-Text"
-           d="m -159.5,217.6 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,269.2 v 1"
-           class="ColorScheme-Text"
-           id="path843"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -133.2,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path845"
+           id="tock"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           id="path847"
+           id="path886"
            class="ColorScheme-Text"
-           d="m -184.8,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-      </g>
-      <g
-         id="g863"
-         transform="rotate(12,-159.5,243.9)">
+           d="m -159.5,268.6 v 1.5"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,217.6 v 1"
+           inkscape:connector-curvature="0"
+           id="path888"
            class="ColorScheme-Text"
-           id="path855"
+           d="m -133.3,243.9 h -1.5"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
+           d="m -184.2,243.9 h -1.5"
+           class="ColorScheme-Text"
+           id="path890"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           id="path857"
+           id="path898"
            class="ColorScheme-Text"
-           d="m -159.5,269.2 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+           d="m -146.4,221.2 -0.7,1.3"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
         <path
-           inkscape:connector-curvature="0"
-           id="path859"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
+           d="m -171.8,265.3 -0.8,1.3"
            class="ColorScheme-Text"
-           d="m -133.2,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -184.8,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path861"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(18,-159.5,243.9)"
-         id="g873">
-        <path
-           inkscape:connector-curvature="0"
-           id="path865"
-           class="ColorScheme-Text"
-           d="m -159.5,217.6 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,269.2 v 1"
-           class="ColorScheme-Text"
-           id="path867"
+           id="path900"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -133.2,243.9 h -1"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
+           d="m -136.8,257 -1.3,-0.7"
            class="ColorScheme-Text"
-           id="path869"
+           id="path902"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           id="path871"
+           id="path904"
            class="ColorScheme-Text"
-           d="m -184.8,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-      </g>
-      <g
-         id="g883"
-         transform="rotate(24,-159.5,243.9)">
+           d="m -180.9,231.6 -1.3,-0.8"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,217.6 v 1"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
+           d="m -136.8,230.8 -1.3,0.8"
            class="ColorScheme-Text"
-           id="path875"
+           id="path908"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           id="path877"
+           id="path910"
            class="ColorScheme-Text"
-           d="m -159.5,269.2 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+           d="m -180.9,256.3 -1.3,0.7"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
         <path
            inkscape:connector-curvature="0"
-           id="path879"
+           id="path912"
            class="ColorScheme-Text"
-           d="m -133.2,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+           d="m -146.4,266.6 -0.7,-1.3"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -184.8,243.9 h -1"
+           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.6052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7"
+           d="m -171.8,222.5 -0.8,-1.3"
            class="ColorScheme-Text"
-           id="path881"
+           id="path914"
            inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(36,-159.5,243.9)"
-         id="g893">
-        <path
-           inkscape:connector-curvature="0"
-           id="path885"
-           class="ColorScheme-Text"
-           d="m -159.5,217.6 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,269.2 v 1"
-           class="ColorScheme-Text"
-           id="path887"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -133.2,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path889"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path891"
-           class="ColorScheme-Text"
-           d="m -184.8,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-      </g>
-      <g
-         id="g903"
-         transform="rotate(42,-159.5,243.9)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,217.6 v 1"
-           class="ColorScheme-Text"
-           id="path895"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path897"
-           class="ColorScheme-Text"
-           d="m -159.5,269.2 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path899"
-           class="ColorScheme-Text"
-           d="m -133.2,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -184.8,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path901"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(48,-159.5,243.9)"
-         id="g913">
-        <path
-           inkscape:connector-curvature="0"
-           id="path905"
-           class="ColorScheme-Text"
-           d="m -159.5,217.6 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,269.2 v 1"
-           class="ColorScheme-Text"
-           id="path907"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -133.2,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path909"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path911"
-           class="ColorScheme-Text"
-           d="m -184.8,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-      </g>
-      <g
-         id="g923"
-         transform="rotate(54,-159.5,243.9)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,217.6 v 1"
-           class="ColorScheme-Text"
-           id="path915"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path917"
-           class="ColorScheme-Text"
-           d="m -159.5,269.2 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path919"
-           class="ColorScheme-Text"
-           d="m -133.2,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -184.8,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path921"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(66,-159.5,243.9)"
-         id="g933">
-        <path
-           inkscape:connector-curvature="0"
-           id="path925"
-           class="ColorScheme-Text"
-           d="m -159.5,217.6 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,269.2 v 1"
-           class="ColorScheme-Text"
-           id="path927"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -133.2,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path929"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path931"
-           class="ColorScheme-Text"
-           d="m -184.8,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-      </g>
-      <g
-         id="g943"
-         transform="rotate(72,-159.5,243.9)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,217.6 v 1"
-           class="ColorScheme-Text"
-           id="path935"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path937"
-           class="ColorScheme-Text"
-           d="m -159.5,269.2 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path939"
-           class="ColorScheme-Text"
-           d="m -133.2,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -184.8,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path941"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         transform="rotate(78,-159.5,243.9)"
-         id="g953">
-        <path
-           inkscape:connector-curvature="0"
-           id="path945"
-           class="ColorScheme-Text"
-           d="m -159.5,217.6 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,269.2 v 1"
-           class="ColorScheme-Text"
-           id="path947"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -133.2,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path949"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path951"
-           class="ColorScheme-Text"
-           d="m -184.8,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-      </g>
-      <g
-         id="g963"
-         transform="rotate(84,-159.5,243.9)">
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -159.5,217.6 v 1"
-           class="ColorScheme-Text"
-           id="path955"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path957"
-           class="ColorScheme-Text"
-           d="m -159.5,269.2 v 1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path959"
-           class="ColorScheme-Text"
-           d="m -133.2,243.9 h -1"
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
-           d="m -184.8,243.9 h -1"
-           class="ColorScheme-Text"
-           id="path961"
-           inkscape:connector-curvature="0" />
+        <g
+           style="stroke-width:1.1433"
+           id="g853"
+           transform="rotate(6,-159.5,243.9)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,217.6 v 1"
+             class="ColorScheme-Text"
+             id="letty"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path843"
+             class="ColorScheme-Text"
+             d="m -159.5,269.2 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path845"
+             class="ColorScheme-Text"
+             d="m -133.2,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -184.8,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path847"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           transform="rotate(12,-159.5,243.9)"
+           id="g863">
+          <path
+             inkscape:connector-curvature="0"
+             id="path855"
+             class="ColorScheme-Text"
+             d="m -159.5,217.6 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,269.2 v 1"
+             class="ColorScheme-Text"
+             id="path857"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -133.2,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path859"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path861"
+             class="ColorScheme-Text"
+             d="m -184.8,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           id="g873"
+           transform="rotate(18,-159.5,243.9)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,217.6 v 1"
+             class="ColorScheme-Text"
+             id="path865"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path867"
+             class="ColorScheme-Text"
+             d="m -159.5,269.2 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path869"
+             class="ColorScheme-Text"
+             d="m -133.2,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -184.8,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path871"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           transform="rotate(24,-159.5,243.9)"
+           id="g883">
+          <path
+             inkscape:connector-curvature="0"
+             id="path875"
+             class="ColorScheme-Text"
+             d="m -159.5,217.6 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,269.2 v 1"
+             class="ColorScheme-Text"
+             id="path877"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -133.2,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path879"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path881"
+             class="ColorScheme-Text"
+             d="m -184.8,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           id="g893"
+           transform="rotate(36,-159.5,243.9)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,217.6 v 1"
+             class="ColorScheme-Text"
+             id="path885"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path887"
+             class="ColorScheme-Text"
+             d="m -159.5,269.2 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path889"
+             class="ColorScheme-Text"
+             d="m -133.2,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -184.8,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path891"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           transform="rotate(42,-159.5,243.9)"
+           id="g903">
+          <path
+             inkscape:connector-curvature="0"
+             id="path895"
+             class="ColorScheme-Text"
+             d="m -159.5,217.6 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,269.2 v 1"
+             class="ColorScheme-Text"
+             id="path897"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -133.2,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path899"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path901"
+             class="ColorScheme-Text"
+             d="m -184.8,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           id="g913"
+           transform="rotate(48,-159.5,243.9)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,217.6 v 1"
+             class="ColorScheme-Text"
+             id="path905"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path907"
+             class="ColorScheme-Text"
+             d="m -159.5,269.2 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path909"
+             class="ColorScheme-Text"
+             d="m -133.2,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -184.8,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path911"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           transform="rotate(54,-159.5,243.9)"
+           id="g923">
+          <path
+             inkscape:connector-curvature="0"
+             id="path915"
+             class="ColorScheme-Text"
+             d="m -159.5,217.6 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,269.2 v 1"
+             class="ColorScheme-Text"
+             id="path917"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -133.2,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path919"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path921"
+             class="ColorScheme-Text"
+             d="m -184.8,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           id="g933"
+           transform="rotate(66,-159.5,243.9)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,217.6 v 1"
+             class="ColorScheme-Text"
+             id="path925"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path927"
+             class="ColorScheme-Text"
+             d="m -159.5,269.2 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path929"
+             class="ColorScheme-Text"
+             d="m -133.2,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -184.8,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path931"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           transform="rotate(72,-159.5,243.9)"
+           id="g943">
+          <path
+             inkscape:connector-curvature="0"
+             id="path935"
+             class="ColorScheme-Text"
+             d="m -159.5,217.6 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,269.2 v 1"
+             class="ColorScheme-Text"
+             id="path937"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -133.2,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path939"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path941"
+             class="ColorScheme-Text"
+             d="m -184.8,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           id="g953"
+           transform="rotate(78,-159.5,243.9)">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,217.6 v 1"
+             class="ColorScheme-Text"
+             id="path945"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path947"
+             class="ColorScheme-Text"
+             d="m -159.5,269.2 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path949"
+             class="ColorScheme-Text"
+             d="m -133.2,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -184.8,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path951"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           style="stroke-width:1.1433"
+           transform="rotate(84,-159.5,243.9)"
+           id="g963">
+          <path
+             inkscape:connector-curvature="0"
+             id="path955"
+             class="ColorScheme-Text"
+             d="m -159.5,217.6 v 1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -159.5,269.2 v 1"
+             class="ColorScheme-Text"
+             id="path957"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6"
+             d="m -133.2,243.9 h -1"
+             class="ColorScheme-Text"
+             id="path959"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path961"
+             class="ColorScheme-Text"
+             d="m -184.8,243.9 h -1"
+             style="fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.3025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.6" />
+        </g>
       </g>
     </g>
+    <circle
+       style="opacity:1;fill:#8ebeee;fill-opacity:0.359;fill-rule:evenodd;stroke:none;stroke-width:0.2646;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle1005"
+       cx="-223.3"
+       cy="190.6"
+       r="20.91" />
   </g>
 </svg>

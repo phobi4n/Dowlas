@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="21.84"
-     inkscape:cx="79"
-     inkscape:cy="88.72"
+     inkscape:zoom="3.861"
+     inkscape:cx="56.66"
+     inkscape:cy="73.73"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -940,5 +940,11 @@
        d="m 245.4,346.3 v 12 h 12 v -12 z"
        style="opacity:0.5183;fill:url(#radialGradient932);fill-opacity:1;stroke:none;stroke-width:0.2634"
        inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#f0f1f4;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="hint-stretch-borders"
+       cx="279.9"
+       cy="251.1"
+       r="3.558" />
   </g>
 </svg>

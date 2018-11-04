@@ -12,11 +12,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   width="139.46445"
-   viewBox="0 0 139.46453 42.183931"
+   width="135.3"
+   viewBox="0 0 135.3 54.65"
    version="1.1"
-   height="42.183956"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   height="54.65"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="button.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -31,9 +31,9 @@
      inkscape:window-height="843"
      id="namedview4532"
      showgrid="false"
-     inkscape:zoom="17.91"
-     inkscape:cx="64.46"
-     inkscape:cy="22.48"
+     inkscape:zoom="4.985"
+     inkscape:cx="67.35"
+     inkscape:cy="18"
      inkscape:current-layer="svg2"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
@@ -48,22 +48,6 @@
      fit-margin-bottom="5" />
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient2932"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2930" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient2870"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2868" />
-    </linearGradient>
     <linearGradient
        id="pressed"
        osb:paint="solid">
@@ -349,7 +333,7 @@
        id="linearGradient3484"
        xlink:href="#linearGradient3478"
        inkscape:collect="always"
-       gradientTransform="translate(-12.72,-137.2)" />
+       gradientTransform="translate(-14.18,-123.3)" />
     <radialGradient
        r="3"
        fy="9.812"
@@ -486,7 +470,7 @@
        x2="68.7"
        y2="19.73"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,0.068)" />
+       gradientTransform="translate(-1.46,13.98)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#pressed"
@@ -629,94 +613,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <rect
-     id="toolbutton-hover-center"
-     y="-31.69981"
-     x="39.913879"
-     width="24.000013"
-     height="24.000013"
-     class="ColorScheme-ButtonBackground"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:2.00000119"
-     transform="scale(-1)" />
-  <rect
-     transform="scale(-1)"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.57735062"
-     class="ColorScheme-ButtonBackground"
-     height="24.000013"
-     width="6"
-     x="63.913895"
-     y="-31.69981"
-     id="toolbutton-hover-left" />
-  <rect
-     id="toolbutton-hover-right"
-     y="-31.699806"
-     x="33.913872"
-     width="6"
-     height="24.000013"
-     class="ColorScheme-ButtonBackground"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.57735062"
-     transform="scale(-1)" />
-  <rect
-     transform="rotate(-90)"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.57735062"
-     class="ColorScheme-ButtonBackground"
-     height="24.000013"
-     width="6"
-     x="-7.6997933"
-     y="-63.913887"
-     id="toolbutton-hover-top" />
-  <rect
-     id="toolbutton-hover-bottom"
-     class="ColorScheme-ButtonBackground"
-     y="-63.913895"
-     x="-37.69981"
-     width="6"
-     height="24.000013"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.57735062"
-     transform="rotate(-90)" />
-  <rect
-     id="toolbutton-hover-bottomleft"
-     y="-37.69981"
-     x="63.913895"
-     width="6"
-     height="6"
-     class="ColorScheme-ButtonBackground"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     transform="scale(-1)" />
-  <rect
-     transform="scale(-1)"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     class="ColorScheme-ButtonBackground"
-     height="6"
-     width="6"
-     x="63.913887"
-     y="-7.6997938"
-     id="toolbutton-hover-topleft" />
-  <rect
-     transform="scale(-1)"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     class="ColorScheme-ButtonBackground"
-     height="6"
-     width="6"
-     x="33.913879"
-     y="-37.69981"
-     id="toolbutton-hover-bottomright" />
-  <rect
-     id="toolbutton-hover-topright"
-     y="-7.6997933"
-     x="33.913872"
-     width="6"
-     height="6"
-     class="ColorScheme-ButtonBackground"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     transform="scale(-1)" />
-  <rect
-     y="61.34"
-     x="49.53"
+     y="13.7"
+     x="16.3"
      height="6"
      width="2"
      id="normal-hint-bottom-margin"
@@ -726,11 +629,11 @@
      id="normal-hint-top-margin"
      width="2"
      height="6"
-     x="49.53"
-     y="53.34" />
+     x="16.3"
+     y="5.701" />
   <rect
-     y="43.53"
-     x="-61.34"
+     y="10.3"
+     x="-13.7"
      height="6"
      width="2"
      id="normal-hint-left-margin"
@@ -742,18 +645,18 @@
      id="normal-hint-right-margin"
      width="2"
      height="6"
-     x="-61.34"
-     y="51.53" />
+     x="-13.7"
+     y="18.3" />
   <rect
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      id="hover-hint-bottom-margin"
      width="2"
      height="3"
-     x="78.75"
-     y="67.04" />
+     x="117.8"
+     y="15.41" />
   <rect
-     y="59.04"
-     x="78.75"
+     y="10.41"
+     x="117.8"
      height="3"
      width="2"
      id="hover-hint-top-margin"
@@ -764,26 +667,26 @@
      id="hover-hint-left-margin"
      width="2"
      height="3"
-     x="-64.04"
-     y="72.75" />
+     x="-15.41"
+     y="114.8" />
   <rect
-     y="80.75"
-     x="-64.04"
+     y="119.8"
+     x="-15.41"
      height="3"
      width="2"
      id="hover-hint-right-margin"
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
      transform="rotate(-90)" />
   <rect
-     y="54.2"
-     x="108.3"
+     y="5"
+     x="62.87"
      height="6"
      width="2"
      id="pressed-hint-top-margin"
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <rect
-     y="110.3"
-     x="-62.24"
+     y="64.87"
+     x="-13.04"
      height="6"
      width="2"
      id="pressed-hint-right-margin"
@@ -795,55 +698,25 @@
      id="pressed-hint-left-margin"
      width="2"
      height="6"
-     x="-62.24"
-     y="102.3" />
+     x="-13.04"
+     y="56.87" />
   <rect
      style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
      id="pressed-hint-bottom-margin"
      width="2"
      height="6"
-     x="108.3"
-     y="62.2" />
-  <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="toolbutton-pressed-hint-top-margin"
-     width="2"
-     height="6"
-     x="137.6"
-     y="54.2" />
-  <rect
-     transform="rotate(-90)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="toolbutton-pressed-hint-right-margin"
-     width="2"
-     height="6"
-     x="-62.24"
-     y="139.6" />
-  <rect
-     y="131.6"
-     x="-62.24"
-     height="6"
-     width="2"
-     id="toolbutton-pressed-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     transform="rotate(-90)" />
-  <rect
-     y="62.2"
-     x="137.6"
-     height="6"
-     width="2"
-     id="toolbutton-pressed-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     x="62.87"
+     y="13" />
   <rect
      style="opacity:1;fill:url(#linearGradient3484);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="normal-center"
      width="8"
      height="8.001"
-     x="14.47"
-     y="15.06" />
+     x="13.01"
+     y="28.98" />
   <g
      id="normal-bottomleft"
-     transform="translate(-53.13,-136.6)">
+     transform="translate(-54.59,-122.7)">
     <path
        id="path914"
        transform="translate(-155.5,106.4)"
@@ -858,7 +731,7 @@
   </g>
   <g
      id="normal-right"
-     transform="translate(-24.23,-153)">
+     transform="translate(-25.69,-139.1)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.753;fill:url(#linearGradient941);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
@@ -874,7 +747,7 @@
   </g>
   <g
      id="normal-left"
-     transform="translate(-21.23,-166.7)">
+     transform="translate(-22.69,-152.8)">
     <path
        inkscape:connector-curvature="0"
        id="rect974"
@@ -890,7 +763,7 @@
   </g>
   <g
      id="normal-top"
-     transform="translate(-5.631,-126.1)">
+     transform="translate(-7.091,-112.2)">
     <path
        id="rect964"
        transform="translate(-155.5,106.4)"
@@ -907,7 +780,7 @@
   </g>
   <g
      id="normal-bottom"
-     transform="translate(-12.73,-149.4)">
+     transform="translate(-14.19,-135.5)">
     <path
        id="rect1162"
        transform="translate(-155.5,106.4)"
@@ -924,7 +797,7 @@
   </g>
   <g
      id="normal-topright"
-     transform="translate(-33.33,-140.2)">
+     transform="translate(-34.79,-126.3)">
     <path
        id="path1184"
        transform="translate(-155.5,106.4)"
@@ -939,7 +812,7 @@
   </g>
   <g
      id="normal-bottomright"
-     transform="translate(-52.43,-130.1)">
+     transform="translate(-53.89,-116.2)">
     <path
        style="opacity:1;fill:url(#linearGradient3490);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2664;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 74.9,158.2 v -5 h 5 c 0,3.1 -1.8,5 -5,5 z"
@@ -954,7 +827,7 @@
   </g>
   <g
      id="normal-topleft"
-     transform="translate(-70.23,-152.1)">
+     transform="translate(-71.69,-138.2)">
     <path
        style="opacity:1;fill:url(#linearGradient3488);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2664;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 84.7,162.2 v 5 h -5 c 0,-3.1 1.8,-5 5,-5 z"
@@ -968,14 +841,14 @@
        inkscape:connector-curvature="0" />
   </g>
   <rect
-     y="19.73"
-     x="115.7"
+     y="33.65"
+     x="114.2"
      height="8"
      width="8"
      id="hover-center"
-     style="opacity:1;fill:#000000;fill-opacity:0.188;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+     style="opacity:1;fill:#f8f8f8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   <g
-     transform="rotate(90,121.7,19.01)"
+     transform="rotate(90,114,25.24)"
      id="hover-bottom">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -994,7 +867,7 @@
   </g>
   <g
      id="hover-top"
-     transform="matrix(0,-1,-1,0,140.7,150.2)">
+     transform="matrix(0,-1,-1,0,139.2,164.1)">
     <rect
        y="17.08"
        x="130.4"
@@ -1012,7 +885,7 @@
   </g>
   <g
      id="hover-right"
-     transform="translate(-6.645,2.664)">
+     transform="translate(-8.105,16.58)">
     <rect
        y="17.08"
        x="130.4"
@@ -1030,7 +903,7 @@
   </g>
   <g
      id="hover-left"
-     transform="rotate(180,123,22.38)">
+     transform="rotate(180,122.3,29.34)">
     <rect
        y="17.08"
        x="130.4"
@@ -1048,7 +921,7 @@
   </g>
   <g
      id="hover-topright"
-     transform="translate(-0.9455,9.934)">
+     transform="translate(-2.405,23.85)">
     <rect
        y="1.812"
        x="124.7"
@@ -1065,7 +938,7 @@
        y="3.812" />
   </g>
   <g
-     transform="matrix(-1,0,0,1,240.3,9.854)"
+     transform="matrix(-1,0,0,1,238.8,23.77)"
      id="hover-topleft">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1083,7 +956,7 @@
        style="opacity:1;fill:url(#radialGradient1029);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   </g>
   <g
-     transform="matrix(1,0,0,-1,-0.9455,37.55)"
+     transform="matrix(1,0,0,-1,-2.405,51.47)"
      id="hover-bottomright">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1101,7 +974,7 @@
        style="opacity:1;fill:url(#radialGradient1031);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   </g>
   <g
-     transform="rotate(180,120.1,18.74)"
+     transform="rotate(180,119.4,25.7)"
      id="hover-bottomleft">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1119,15 +992,15 @@
        style="opacity:1;fill:url(#radialGradient1033);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   </g>
   <rect
-     y="15.8"
-     x="60.7"
+     y="29.72"
+     x="59.24"
      height="8.001"
      width="8"
      id="pressed-center"
      style="opacity:1;fill:url(#linearGradient2880);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   <g
      id="pressed-right"
-     transform="translate(-15.25,-4.19)">
+     transform="translate(-16.71,9.727)">
     <rect
        y="19.99"
        x="83.95"
@@ -1152,7 +1025,7 @@
   </g>
   <g
      id="pressed-topright"
-     transform="translate(-5.51,4.999)">
+     transform="translate(-6.97,18.92)">
     <rect
        y="2.799"
        x="74.21"
@@ -1172,7 +1045,7 @@
        style="opacity:1;fill:url(#linearGradient2882);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2664;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal" />
   </g>
   <g
-     transform="matrix(-1,0,0,1,144.6,-4.191)"
+     transform="matrix(-1,0,0,1,143.1,9.726)"
      id="pressed-left">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.453;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1197,7 +1070,7 @@
        y="19.99" />
   </g>
   <g
-     transform="rotate(-90,70.23,29.52)"
+     transform="rotate(-90,76.46,37.21)"
      id="pressed-top">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.453;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1222,7 +1095,7 @@
        y="19.99" />
   </g>
   <g
-     transform="rotate(90,74.42,14.27)"
+     transform="rotate(90,66.73,20.5)"
      id="pressed-bottom">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.453;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1247,7 +1120,7 @@
        y="19.99" />
   </g>
   <g
-     transform="matrix(-1,0,0,1,134.9,4.999)"
+     transform="matrix(-1,0,0,1,133.4,18.92)"
      id="pressed-topleft">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.453;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1268,7 +1141,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="matrix(1,0,0,-1,-5.51,34.6)"
+     transform="matrix(1,0,0,-1,-6.97,48.52)"
      id="pressed-bottomright">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.453;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -1289,7 +1162,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="rotate(-180,67.45,17.3)"
+     transform="rotate(-180,66.72,24.26)"
      id="pressed-bottomleft">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.453;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
