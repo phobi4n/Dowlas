@@ -21,15 +21,27 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient921">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="0"
+         id="stop917" />
+      <stop
+         id="stop929"
+         offset="0.9605"
+         style="stop-color:#fcfcfc;stop-opacity:0.9961" />
+      <stop
+         style="stop-color:#e4e4e4;stop-opacity:0.9961"
+         offset="1"
+         id="stop919" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient1228">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop1224" />
-      <stop
-         id="stop912"
-         offset="0.7"
-         style="stop-color:#000000;stop-opacity:0.7222" />
       <stop
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
@@ -82,7 +94,7 @@
        x2="-159.5"
        y2="262.8"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.362,0,0,1.362,56.28,-93.28)" />
+       gradientTransform="matrix(1.315,0,0,1.315,48.82,-81.88)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1228"
@@ -93,7 +105,18 @@
        fy="243.8"
        r="19.97"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.412,0,0,1.412,64.18,-105.6)" />
+       gradientTransform="matrix(1.368,0,0,1.368,57.09,-94.76)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient921"
+       id="radialGradient927"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.016,0,0,1.016,2.543,-3.776)"
+       cx="-161.1"
+       cy="238.7"
+       fx="-161.1"
+       fy="238.7"
+       r="24.95" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -102,9 +125,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.683"
-     inkscape:cx="253.7"
-     inkscape:cy="393.2"
+     inkscape:zoom="3.795"
+     inkscape:cx="341.7"
+     inkscape:cy="259.1"
      inkscape:document-units="px"
      inkscape:current-layer="g4510"
      showgrid="false"
@@ -147,54 +170,8 @@
      id="g4510"
      transform="translate(229.46573,-160.46015)">
     <g
-       id="MinuteHand"
-       transform="matrix(1,0,0,1.03,0,-7.328)"
-       style="stroke-width:0.9852">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.1122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect883"
-         width="2.538"
-         height="24.74"
-         x="-117.7"
-         y="241.6"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0.8413"
-         rx="0.6174"
-         y="242.4"
-         x="-116.9"
-         height="22.02"
-         width="1.035"
-         id="rect881"
-         class="ColorScheme-Text"
-         style="opacity:0.9;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.7232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="HourHand">
-      <rect
-         ry="0"
-         rx="0"
-         y="241.5"
-         x="-112.7"
-         height="17.78"
-         width="3.816"
-         id="rect890"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.9971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="opacity:0.9;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.6099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         class="ColorScheme-Text"
-         id="rect893"
-         width="1.679"
-         height="15.11"
-         x="-111.6"
-         y="242.7"
-         ry="0.997"
-         rx="1.015" />
-    </g>
-    <g
        id="SecondHand"
-       transform="matrix(1,0,0,1.13,0,-31.5)"
+       transform="matrix(1,0,0,1.13,3.599,-31.2)"
        style="stroke-width:0.9406">
       <rect
          ry="0"
@@ -226,12 +203,12 @@
          id="rect891"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.5667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
-         r="1.615"
-         cy="242.2"
-         cx="-91.01"
+         r="1.486"
+         cy="242.1"
+         cx="-90.97"
          id="circle897"
          class="ColorScheme-Text"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.9446;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.9431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <circle
        r="26.48"
@@ -242,17 +219,17 @@
     <g
        id="ClockFace">
       <circle
-         r="28.2"
+         r="27.31"
          cy="238.7"
          cx="-161.1"
          id="circle1212"
          style="opacity:1;fill:url(#radialGradient1230);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2645;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <circle
-         style="opacity:1;fill:url(#linearGradient1222);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2645;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         style="opacity:1;fill:url(#linearGradient1222);fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient927);stroke-width:0.5027;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
          id="circle1214"
          cx="-161.1"
          cy="238.7"
-         r="25.84" />
+         r="24.95" />
       <g
          style="stroke-width:1.1433"
          transform="matrix(0.8745,0,0,0.8745,-21.59,25.45)"
@@ -685,5 +662,69 @@
        cx="-223.3"
        cy="190.6"
        r="20.91" />
+    <g
+       id="HourHand"
+       transform="matrix(1.426,0,0,1,48.06,0)"
+       style="stroke-width:0.8373">
+      <rect
+         ry="0"
+         rx="0"
+         y="241.5"
+         x="-112.7"
+         height="17.78"
+         width="3.816"
+         id="rect890"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         transform="matrix(0.2721,0,0,2.194,-80.58,-289.1)"
+         inkscape:transform-center-y="2.283"
+         inkscape:transform-center-x="0.001452"
+         d="m -111,250.1 -2.1,-3.5 -2,-3.6 4.1,0 4.1,0 -2,3.6 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.618"
+         sodipodi:arg1="1.571"
+         sodipodi:r2="2.37"
+         sodipodi:r1="4.744"
+         sodipodi:cy="245.4"
+         sodipodi:cx="-111"
+         sodipodi:sides="3"
+         id="HH1"
+         class="ColorScheme-Text"
+         style="opacity:0.9;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1435;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9826;paint-order:normal"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="MinuteHand">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.1287;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect883"
+         width="3.03"
+         height="25.48"
+         x="-120.7"
+         y="241"
+         rx="0"
+         ry="0" />
+      <path
+         transform="matrix(0.1297,0,0,1.67,-103.9,-167.2)"
+         inkscape:transform-center-y="3.803"
+         inkscape:transform-center-x="-0.01972"
+         d="m -117.6,259.5 -4,-6.9 -3.9,-6.9 7.9,0 7.9,0 -3.9,6.9 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.618"
+         sodipodi:arg1="1.571"
+         sodipodi:r2="4.572"
+         sodipodi:r1="9.153"
+         sodipodi:cy="250.3"
+         sodipodi:cx="-117.6"
+         sodipodi:sides="3"
+         id="MM1"
+         class="ColorScheme-Text"
+         style="opacity:0.7;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2844;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9826;paint-order:normal"
+         sodipodi:type="star" />
+    </g>
   </g>
 </svg>
