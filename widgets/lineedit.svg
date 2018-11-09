@@ -15,7 +15,7 @@
    version="1.1"
    width="100.9"
    height="77.58"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="lineedit.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -31,9 +31,9 @@
      id="namedview75"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="17.61"
-     inkscape:cx="39.57"
-     inkscape:cy="19.52"
+     inkscape:zoom="12.45"
+     inkscape:cx="70.03"
+     inkscape:cy="66.29"
      inkscape:current-layer="svg2"
      inkscape:window-x="107"
      inkscape:window-y="126"
@@ -145,96 +145,12 @@
          style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient967">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3784"
-         offset="0"
-         id="stop963" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop965" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient961">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3784"
-         offset="0"
-         id="stop957" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop959" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient955">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3784"
-         offset="0"
-         id="stop951" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop953" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient949">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3784"
-         offset="0"
-         id="stop945" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop947" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient943">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3784"
-         offset="0"
-         id="stop939" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop941" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient937">
-      <stop
-         style="stop-color:#000000;stop-opacity:0.3784"
-         offset="0"
-         id="stop932" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop934" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient933"
-       inkscape:collect="always">
-      <stop
-         id="stop929"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:0.3784" />
-      <stop
-         id="stop931"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient921"
+       id="new"
        inkscape:collect="always">
       <stop
          id="stop917"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.3784" />
+         style="stop-color:#000000;stop-opacity:0.2652" />
       <stop
          id="stop919"
          offset="1"
@@ -503,7 +419,7 @@
        y1="21.08"
        x1="130.4"
        id="linearGradient923"
-       xlink:href="#linearGradient943"
+       xlink:href="#new"
        inkscape:collect="always" />
     <linearGradient
        y2="21.08"
@@ -513,7 +429,7 @@
        gradientTransform="matrix(1.5,0,0,1,-65.2,0)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient928"
-       xlink:href="#linearGradient921"
+       xlink:href="#new"
        inkscape:collect="always" />
     <linearGradient
        y2="21.08"
@@ -523,28 +439,28 @@
        gradientTransform="matrix(1.5,0,0,1,-65.2,0)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient936"
-       xlink:href="#linearGradient961"
+       xlink:href="#new"
        inkscape:collect="always" />
     <linearGradient
        y2="21.08"
        x2="134.4"
-       y1="21.08"
+       y1="21.17"
        x1="130.4"
        gradientTransform="matrix(1.5,0,0,1,-65.2,0)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient944"
-       xlink:href="#linearGradient937"
+       xlink:href="#new"
        inkscape:collect="always" />
     <radialGradient
-       gradientTransform="matrix(1.998,0.0165,-0.0164,2,-124.3,-11.87)"
+       gradientTransform="matrix(1.998,0.0165,-0.0164,2,-158.5,-12.31)"
        gradientUnits="userSpaceOnUse"
        r="3"
-       fy="9.812"
+       fy="9.814"
        fx="124.7"
-       cy="9.812"
+       cy="9.814"
        cx="124.7"
        id="radialGradient935"
-       xlink:href="#linearGradient967"
+       xlink:href="#new"
        inkscape:collect="always" />
     <radialGradient
        r="3"
@@ -555,18 +471,18 @@
        gradientTransform="matrix(1.998,0.0165,-0.0164,2,-124.3,-11.87)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient947"
-       xlink:href="#linearGradient933"
+       xlink:href="#new"
        inkscape:collect="always" />
     <radialGradient
        r="3"
-       fy="9.812"
+       fy="9.813"
        fx="124.7"
-       cy="9.812"
+       cy="9.813"
        cx="124.7"
-       gradientTransform="matrix(1.998,0.0165,-0.0164,2,-124.3,-11.87)"
+       gradientTransform="matrix(2.003,-7.717e-5,1.939e-4,2,-125.1,-9.804)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient956"
-       xlink:href="#linearGradient955"
+       xlink:href="#new"
        inkscape:collect="always" />
     <radialGradient
        r="3"
@@ -577,7 +493,7 @@
        gradientTransform="matrix(1.998,0.0165,-0.0164,2,-124.3,-11.87)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient964"
-       xlink:href="#linearGradient949"
+       xlink:href="#new"
        inkscape:collect="always" />
     <linearGradient
        y2="21.08"
@@ -672,7 +588,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -760,7 +676,7 @@
      id="base-bottomleft">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.753;fill:url(#radialGradient924);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#radialGradient924);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 215.1,53.3 c 0,4.9 3,8 8,8 v -3 c -3.2,0 -5,-1.9 -5,-5 z"
        transform="translate(-155.5,106.4)"
        id="path914" />
@@ -776,7 +692,7 @@
     <path
        id="rect933"
        d="m 51.68,168.1 v 8 h 3 v -8 z"
-       style="opacity:0.753;fill:url(#linearGradient941);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#linearGradient941);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        inkscape:connector-curvature="0" />
     <rect
        y="168.1"
@@ -790,7 +706,7 @@
      transform="translate(-7.893,-168.8)"
      id="base-left">
     <path
-       style="opacity:0.753;fill:url(#linearGradient980);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#linearGradient980);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 27.69,181.8 v 8 h 8 v 0 h -5 v -8 z"
        id="rect974"
        inkscape:connector-curvature="0" />
@@ -807,7 +723,7 @@
      id="base-top">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.753;fill:url(#linearGradient970);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#linearGradient970);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 175.6,26.8 v 3 h 8 v -3 z"
        transform="translate(-155.5,106.4)"
        id="rect964" />
@@ -824,7 +740,7 @@
      id="base-bottom">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.753;fill:url(#linearGradient1164);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#linearGradient1164);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2665;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 182.7,71.1 v 3 h 8 v -3 z"
        transform="translate(-155.5,106.4)"
        id="rect1162" />
@@ -841,7 +757,7 @@
      id="base-topright">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.753;fill:url(#radialGradient1186);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#radialGradient1186);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 211.3,40.9 v 3 c 3.2,0 5,1.9 5,5 h 3 c 0,-4.9 -3,-8 -8,-8 z"
        transform="translate(-155.5,106.4)"
        id="path1184" />
@@ -861,7 +777,7 @@
        style="opacity:1;fill:url(#linearGradient3490);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2664;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.753;fill:url(#radialGradient1204);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#radialGradient1204);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 235.4,46.8 c 0,3.1 -1.8,5 -5,5 v 3 c 5,0 8,-3.1 8,-8 z"
        transform="translate(-155.5,106.4)"
        id="path1202" />
@@ -876,7 +792,7 @@
        style="opacity:1;fill:url(#linearGradient3488);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2664;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.753;fill:url(#radialGradient1217);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
+       style="opacity:0.647;fill:url(#radialGradient1217);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8271;paint-order:normal"
        d="m 240.2,52.8 c -5,0 -8,3.1 -8,8 h 3 c 0,-3.1 1.8,-5 5,-5 z"
        transform="translate(-155.5,106.4)"
        id="path1215" />
@@ -918,7 +834,7 @@
      ry="0"
      rx="0" />
   <rect
-     style="opacity:1;fill:#68e3a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="opacity:0.85;fill:#68e3a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="focus-center"
      width="8"
      height="8"
@@ -926,7 +842,8 @@
      y="13.2" />
   <g
      id="focus-bottom"
-     transform="rotate(90,107,-2.205)">
+     transform="rotate(90,107.1,-2.124)"
+     style="opacity:0.85">
     <rect
        y="17.08"
        x="130.4"
@@ -944,7 +861,8 @@
   </g>
   <g
      transform="matrix(0,-1,-1,0,104.9,143.6)"
-     id="focus-top">
+     id="focus-top"
+     style="opacity:0.85">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect921"
@@ -962,7 +880,8 @@
   </g>
   <g
      transform="translate(-42.54,-3.868)"
-     id="focus-right">
+     id="focus-right"
+     style="opacity:0.85">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect930"
@@ -980,7 +899,8 @@
   </g>
   <g
      transform="rotate(180,105.1,19.11)"
-     id="focus-left">
+     id="focus-left"
+     style="opacity:0.85">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect938"
@@ -997,18 +917,19 @@
        style="opacity:1;fill:url(#linearGradient944);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9069;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   </g>
   <g
-     transform="translate(-36.84,3.4)"
-     id="focus-topright">
+     id="focus-topright"
+     transform="translate(-2.63,3.836)"
+     style="opacity:0.85">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.9071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect925"
        width="8"
        height="8"
-       x="124.7"
-       y="1.812" />
+       x="90.49"
+       y="1.376" />
     <rect
-       y="3.812"
-       x="124.7"
+       y="3.376"
+       x="90.49"
        height="6"
        width="6"
        id="rect927"
@@ -1016,7 +937,8 @@
   </g>
   <g
      id="focus-topleft"
-     transform="matrix(-1,0,0,1,204.5,3.32)">
+     transform="matrix(-1,0,0,1,204.5,3.328)"
+     style="opacity:0.85">
     <rect
        y="1.812"
        x="124.7"
@@ -1034,7 +956,8 @@
   </g>
   <g
      id="focus-bottomright"
-     transform="matrix(1,0,0,-1,-36.84,31.02)">
+     transform="matrix(1,0,0,-1,-36.84,31.02)"
+     style="opacity:0.85">
     <rect
        y="1.812"
        x="124.7"
@@ -1052,7 +975,8 @@
   </g>
   <g
      id="focus-bottomleft"
-     transform="rotate(-180,102.2,15.47)">
+     transform="rotate(-180,102.3,15.51)"
+     style="opacity:0.85">
     <rect
        y="1.812"
        x="124.7"

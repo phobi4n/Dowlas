@@ -13,7 +13,7 @@
    height="26"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -31,9 +31,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.104"
-     inkscape:cx="23.37"
-     inkscape:cy="19.2"
+     inkscape:zoom="28.42"
+     inkscape:cx="4.728"
+     inkscape:cy="12.85"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,13 +117,13 @@
     <path
        class="ColorScheme-Text"
        style="opacity:1;fill:currentColor;fill-opacity:0.6581;fill-rule:evenodd;stroke:none;stroke-width:1.9996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="m 49.61,31.98 v 0.5 h 16 v -0.5 z m 0,1.5 v 0.5 h 16 v -0.5 z"
+       d="m 49.61,30.98 v 0.75 h 16 v -0.75 z m 0,2.25 v 0.75 h 16 v -0.75 z"
        id="horizontal-line"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="vertical-line"
-       d="m 44.01,25.03 h -0.5 v 16 h 0.5 z m -1.5,0 h -0.5 v 16 h 0.5 z"
+       d="m 45,25.03 h -0.75 v 16 H 45 Z m -2.25,0 H 42 v 16 h 0.75 z"
        style="opacity:1;fill:currentColor;fill-opacity:0.6581;fill-rule:evenodd;stroke:none;stroke-width:1.9996;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        class="ColorScheme-Text" />
   </g>
